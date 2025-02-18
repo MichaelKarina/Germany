@@ -1,6 +1,6 @@
 // Array of image paths
 const images = [
-   "Slide-0.jpg", "Slide-1.jpg", "Slide-2.jpg", "Slide-3.jpg", "Slide-4.jpg", "Slide-5.jpg", "Slide-6.jpg", "Slide-7.jpg", "Slide-8.jpg"
+   "Slide-0.1.jpg", "Slide-0.2.jpg", "Slide-1d.jpg", "Slide-1e.jpg", "Slide-2a.jpg", "Slide-2b.jpg", "Slide-3c.jpg", "Slide-3d.jpg", "Slide-4a.jpg","Slide-4b.jpg"
 ];
 
 let currentIndex = 0; // Track the current image index
